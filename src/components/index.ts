@@ -1,0 +1,1 @@
+export {BotonRecolectar} from './BotonRecolectar'
